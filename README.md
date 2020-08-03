@@ -1,4 +1,4 @@
-# Github-Cheat-Sheet
+# Git-Cheat-Sheet
 ### Git phases:
 <ol>
   <li> <b>Working Tree:</b> Area where you perform all the modifications (contains Track and untrack files)</li>
