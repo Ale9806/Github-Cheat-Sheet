@@ -79,3 +79,5 @@ In ordet to apply CI with github you can use many 3rd parties solutions such as:
   <li>Travis</li>
   <li>Jankins </li>
 </ol>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jen-reeve/Mineral-Stability/master?urlpath=rstudio)
