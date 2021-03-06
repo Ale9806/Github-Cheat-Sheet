@@ -27,7 +27,7 @@
 | `git init ` | Create .git directory (Initialize Repository)|
 | `git status `   |  Check status of repository|
 | `git add`   |Add file from working tree to staging area|
-| `git rm ` | Remove file from staging area |
+| `git rm ` | Remove file from staging area (Remember to commit afterwards) |
 |`git rm -cached [name of file]`| Untrack files from previous commit |
 | `git mv `   | Move ore rename file|
 | `.gitignore `   | Add files to be ingored|
