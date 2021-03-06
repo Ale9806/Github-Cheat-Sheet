@@ -60,11 +60,12 @@ Branch: A pointer to a particular commit
 
  | Command | Description |
 | --- | --- |
-| `git branch  ` |List branches in repository|
-| `gir branch name    `   |Create a new branch|
-| `git branch -d name `   |Delete a branch|
-| `git checkout branch name ` | Change  pointor to selected  branch|
+| `git branch --list  ` |List branches in repository|
+| `gir branch [name]    `   |Create a new branch|
 | `git checkout -b name ` | Create and switch to new branch|
+| `git branch -d [name] `   |Delete a branch|
+| `git checkout [name]` | Switch to branch|
+| `git push --set-upstream origin  [name] ` |  Push to branch|
 |`git merge branch `|Merge Head branch with selected branch|
 
 ### ADVANCE GIT
